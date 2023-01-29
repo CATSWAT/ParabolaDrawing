@@ -1,0 +1,11 @@
+C:\Users\herhe\source\repos\ParabolaDrawing\bin\Debug\ParabolaDrawing.exe.config
+C:\Users\herhe\source\repos\ParabolaDrawing\bin\Debug\ParabolaDrawing.exe
+C:\Users\herhe\source\repos\ParabolaDrawing\bin\Debug\ParabolaDrawing.pdb
+C:\Users\herhe\source\repos\ParabolaDrawing\obj\Debug\ParabolaDrawing.csproj.AssemblyReference.cache
+C:\Users\herhe\source\repos\ParabolaDrawing\obj\Debug\ParabolaDrawing.csproj.SuggestedBindingRedirects.cache
+C:\Users\herhe\source\repos\ParabolaDrawing\obj\Debug\ParabolaDrawing.Form1.resources
+C:\Users\herhe\source\repos\ParabolaDrawing\obj\Debug\ParabolaDrawing.Properties.Resources.resources
+C:\Users\herhe\source\repos\ParabolaDrawing\obj\Debug\ParabolaDrawing.csproj.GenerateResource.cache
+C:\Users\herhe\source\repos\ParabolaDrawing\obj\Debug\ParabolaDrawing.csproj.CoreCompileInputs.cache
+C:\Users\herhe\source\repos\ParabolaDrawing\obj\Debug\ParabolaDrawing.exe
+C:\Users\herhe\source\repos\ParabolaDrawing\obj\Debug\ParabolaDrawing.pdb
